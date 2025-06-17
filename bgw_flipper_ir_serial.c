@@ -99,7 +99,7 @@ static void input_cb(InputEvent* ev, void* ctx) {
 }
 
 /* Application entry point */
-int32_t bgw_flipper_tunnel_app(void* p) {
+int32_t bgw_flipper_ir_serial_app(void* p) {
     UNUSED(p);
     FlameTunnelState st = {
         .running = true,
