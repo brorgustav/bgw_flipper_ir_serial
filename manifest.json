@@ -1,0 +1,12 @@
+
+{
+  "id": "bgw_flipper_ir_serial",
+  "name": "bgw_flipper_ir_serial",
+  "version": "1.0.0",
+  "author": "bgw",
+  "description": "Generate RNG from IR and send via UART",
+  "category": "tools",
+  "icon": "F_APP_ICON_IR",
+  "type": "application",
+  "app_entry": "bgw_flipper_tunnel_app"
+}
